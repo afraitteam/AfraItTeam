@@ -11,13 +11,8 @@
 </picture>
 
 
-- 👋 Hi, I’m @AfraItTeam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Ayhan
+- 👀 I’m interested in Open Source Projects and programinig
+- 🌱 I’m currently learning BackEnd Developer 
 - 📫 How to reach me ...
 
-<!---
-AfraItTeam/AfraItTeam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
